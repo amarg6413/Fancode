@@ -16,3 +16,12 @@
    
 5. Report will be generated in Reports directory.
 6. I have added two type of report in the project. One is Extent Report and another one is Cucumber Report. You can check the report in the Reports directory.
+
+Extent Passed Case Report
+![img.png](img.png)
+
+Extent Failed Case Report
+![img_1.png](img_1.png)
+
+Cucumber Report
+![img_2.png](img_2.png)
